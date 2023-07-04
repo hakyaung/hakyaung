@@ -2,7 +2,7 @@
 
 # Hello I'm HaKyaungJeong 👋 
 
-## I’m currently working on ...🔭
+## I’m currently working on ...🔭 
 - I'm waiting to join the army
 - Nothing
 
