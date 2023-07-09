@@ -9,7 +9,7 @@
 ## I’m currently learning ...🌱
 - Data Science
 - AI
-- Programming Language
+- Programming Language 
 
 ## How to reach me:📫
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> @hakung_jung  
